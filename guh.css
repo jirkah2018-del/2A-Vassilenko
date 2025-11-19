@@ -1,0 +1,22 @@
+body {
+font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+}
+
+p {
+background-color: greenyellow; 
+color: darkred; 
+}
+
+h1 {
+background-color: royalblue; 
+color: whitesmoke; 
+}
+
+h2 {
+background-color: paleturquoise; 
+color: hotpink; 
+}
+
+body {
+background-color: turquoise;
+}
